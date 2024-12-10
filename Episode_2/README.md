@@ -24,3 +24,5 @@ Use type = "module" to avoid js file being read as a normal browser script.
 - Minification
 - Compress
 - Remove unused code for you - Tree hashing
+
+In order to run the project, write npx parcel index.html

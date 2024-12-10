@@ -12,7 +12,9 @@ In the third argumnet, we can only pass one child or an array of children.
 
 If there is a large nested structure, it will be very difficult to code it using createElement. So, there is a need for JSX
 
-JSX stands for Javascript XML
+JSX stands for Javascript XML.
+
+React.createElement() returns an object.
 
 
 
